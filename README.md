@@ -1,16 +1,16 @@
-#Torpedó
+# Torpedó
 
-##Programterv
+## Programterv
 
-##Felhasznált technológiák
+## Felhasznált technológiák
 - HTML
 - CSS
 - JavaScript
 
-##Telepítés
+## Telepítés
 A program használatához csak egy böngészőre van szükség.
 
-#Érdekesebb megoldások
+# Érdekesebb megoldások
 ```javascript
 	fucntion hello(){
 		console.log('Hello Világ!');
