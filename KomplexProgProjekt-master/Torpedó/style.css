@@ -1,0 +1,57 @@
+table {
+    border-spacing: 0;
+    left: 173px;
+	top: 98px;
+	position: absolute;
+}
+body{
+    background-color: black;
+}
+#Tábla{
+	margin: auto;
+	width: 1024px;
+	height: 863px;
+    position: relative;
+}
+form {
+	background-color: rgb(63, 124, 20);
+    top: 25px;
+	right: 0;
+	z-index: 100;
+	padding: 10px;
+	position: absolute;
+}
+#státusz{
+    color:lightgreen;
+    top: 0;
+	left: 0;
+	position: relative;
+	margin-top: 30px;
+}
+tr {
+	height: 100px;
+}
+td{
+    height: 95px;
+    width: 93px;
+}
+#tuzeles{
+    background-color: red;
+}
+#tuzeles:hover{
+	font-weight: bold;
+	font-size: 17px;
+}
+.input-group{
+	font-size: 20px;
+	border-radius: 5px 5px 5px 5px;
+}
+#kep{
+	float: left;
+	margin-left: 15%;
+	height: 70%;
+	width: 70%;
+}
+#box{
+	border-radius: 5px 5px 5px 5px
+}
